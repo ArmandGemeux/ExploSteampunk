@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 18016c61f38f4874eae4c7035d3bc20b, type: 3}
+  m_Name: Essence
+  m_EditorClassIdentifier: 
+  itemImage: {fileID: 0}
+  itemTag: 00000000
+  itemStackType: 00000000
+  itemDescription: De l'eau noire qui donne de l'energie !
+  colonStatToAffect: 
+  statModifier: 0
+  efficacity: 0
+  power: 32
+  duration: 12
